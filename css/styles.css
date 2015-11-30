@@ -1,0 +1,18 @@
+body {
+		background-color: #26363F;
+		background-image: url("../images/background_mobayilo.jpg");
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		color: white;
+}
+	
+h1 {
+		position: absolute;
+		top: 30%;
+		width: 100%;
+		font-family: 'Helvetica Neue', HelveticaLTStd-Roman, Arial, sans-serif;	
+		font-size: 500%;
+		text-align: center;
+}
